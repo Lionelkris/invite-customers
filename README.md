@@ -28,6 +28,8 @@ Output for the program is also checkedin under the file name Output.txt in this 
 # Usage for docker
 
 If running via docker, use the below commands
+
+`git clone https://github.com/Lionelkris/intrcom.git`
 `docker build -t intercom-test .`
 `docker run intercom-test`
 
