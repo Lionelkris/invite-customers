@@ -12,13 +12,13 @@ Customer list is customers.txt file that is found in the current directory
 
 commands to run the program:
 
-git clone https://github.com/Lionelkris/intrcom.git
+`git clone https://github.com/Lionelkris/intrcom.git`
 
-python3 customers_in_range.py
+`python3 customers_in_range.py`
 
 
 to run the unit test
 
-python3 -m unittest discover
+`python3 -m unittest discover`
 
 Output for the program is also checkedin under the file name Output.txt in this repository
